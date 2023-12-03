@@ -1,0 +1,14 @@
+C:\Users\plast\Desktop\Універ\4 курс\CrossProg\Lab3_47\Lab3_47\bin\Debug\net7.0\Lab3_47.exe
+C:\Users\plast\Desktop\Універ\4 курс\CrossProg\Lab3_47\Lab3_47\bin\Debug\net7.0\Lab3_47.deps.json
+C:\Users\plast\Desktop\Універ\4 курс\CrossProg\Lab3_47\Lab3_47\bin\Debug\net7.0\Lab3_47.runtimeconfig.json
+C:\Users\plast\Desktop\Універ\4 курс\CrossProg\Lab3_47\Lab3_47\bin\Debug\net7.0\Lab3_47.dll
+C:\Users\plast\Desktop\Універ\4 курс\CrossProg\Lab3_47\Lab3_47\bin\Debug\net7.0\Lab3_47.pdb
+C:\Users\plast\Desktop\Універ\4 курс\CrossProg\Lab3_47\Lab3_47\obj\Debug\net7.0\Lab3_47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plast\Desktop\Універ\4 курс\CrossProg\Lab3_47\Lab3_47\obj\Debug\net7.0\Lab3_47.AssemblyInfoInputs.cache
+C:\Users\plast\Desktop\Універ\4 курс\CrossProg\Lab3_47\Lab3_47\obj\Debug\net7.0\Lab3_47.AssemblyInfo.cs
+C:\Users\plast\Desktop\Універ\4 курс\CrossProg\Lab3_47\Lab3_47\obj\Debug\net7.0\Lab3_47.csproj.CoreCompileInputs.cache
+C:\Users\plast\Desktop\Універ\4 курс\CrossProg\Lab3_47\Lab3_47\obj\Debug\net7.0\Lab3_47.dll
+C:\Users\plast\Desktop\Універ\4 курс\CrossProg\Lab3_47\Lab3_47\obj\Debug\net7.0\refint\Lab3_47.dll
+C:\Users\plast\Desktop\Універ\4 курс\CrossProg\Lab3_47\Lab3_47\obj\Debug\net7.0\Lab3_47.pdb
+C:\Users\plast\Desktop\Універ\4 курс\CrossProg\Lab3_47\Lab3_47\obj\Debug\net7.0\Lab3_47.genruntimeconfig.cache
+C:\Users\plast\Desktop\Універ\4 курс\CrossProg\Lab3_47\Lab3_47\obj\Debug\net7.0\ref\Lab3_47.dll
