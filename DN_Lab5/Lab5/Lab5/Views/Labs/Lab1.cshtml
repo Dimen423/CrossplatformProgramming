@@ -1,0 +1,38 @@
+﻿@model Lab5.Models.Lab1DataModel
+
+@{
+    ViewData["Title"] = "Lab1";
+}
+
+<h2>Lab1 - Agreed Friends Calculation</h2>
+
+<form method="post" asp-controller="Labs" asp-action="Lab1">
+    <div class="form-group">
+        <label for="initialReputation">Initial Reputation:</label>
+        <input type="number" class="form-control" id="initialReputation" asp-for="InitialReputation" placeholder="Enter initial reputation">
+        <small class="form-text text-muted">Enter initial reputation.</small>
+
+        <br /><label for="inputFriendsData" class="mt-3">Enter Friends Data:</label>
+        <textarea class="form-control" id="inputFriendsData" asp-for="InputFriendsData" rows="10" placeholder="Enter friends data here..."></textarea>
+        <small class="form-text text-muted">Enter the data of friends, each friend on a new line.</small>
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Calculate</button>
+</form>
+
+@if (Model != null)
+{
+    @if (!string.IsNullOrEmpty(Model.ErrorValue))
+    {
+        <div class="alert alert-danger" role="alert">
+            @Model.ErrorValue
+        </div>
+    }
+
+    @if (!string.IsNullOrEmpty(Model.Calculated))
+    {
+        <div class="alert alert-success">
+            <strong>Result:</strong>
+            <pre>@Model.Calculated</pre>
+        </div>
+    }
+}

@@ -1,0 +1,37 @@
+﻿@model Lab5.Models.Lab3DataModel
+
+@{
+    ViewData["Title"] = "Lab3";
+}
+
+<h2>Lab3 - Garland Patrons Calculation</h2>
+
+<form method="post" asp-controller="Labs" asp-action="Lab3">
+    <div class="form-group">
+        <label for="connections">Connections:</label>
+        <input type="text" class="form-control" id="connections" asp-for="Connections" placeholder="Enter connections (e.g., 1 2,2 3,3 4)">
+        <small class="form-text text-muted">Enter connections between patrons, separated by commas. (e.g., 1 2,2 3,3 4)</small>
+
+        <br /><label for="restrictions" class="mt-3">Restrictions:</label>
+        <input type="text" class="form-control" id="restrictions" asp-for="Restrictions" placeholder="Enter restrictions (e.g., IB,IV,IB)">
+        <small class="form-text text-muted">Enter restrictions for each patron, separated by commas. (e.g., IB,IV,IB)</small>
+    </div>
+    <button type="submit" class="btn btn-primary mt-3">Calculate</button>
+</form>
+
+@if (Model != null)
+{
+    @if (!string.IsNullOrEmpty(Model.ErrorValue))
+    {
+        <div class="alert alert-danger" role="alert">
+            @Model.ErrorValue
+        </div>
+    }
+
+    @if (!string.IsNullOrEmpty(Model.Calculated))
+    {
+        <div class="alert alert-success">
+            <strong>Result:</strong> @Model.Calculated
+        </div>
+    }
+}
