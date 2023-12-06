@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\plast\\.nuget\\packages\\": {},
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\plast\\OneDrive\\Рабочий стол\\CrossProg\\Lab1_47\\Lab1_47\\Lab1_47.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\крос\\Lab1_47\\Lab1_47\\Lab1_47.csproj",
       "projectName": "Lab1_47",
-      "projectPath": "C:\\Users\\plast\\OneDrive\\Рабочий стол\\CrossProg\\Lab1_47\\Lab1_47\\Lab1_47.csproj",
-      "packagesPath": "C:\\Users\\plast\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\plast\\OneDrive\\Рабочий стол\\CrossProg\\Lab1_47\\Lab1_47\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\крос\\Lab1_47\\Lab1_47\\Lab1_47.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\крос\\Lab1_47\\Lab1_47\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\plast\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

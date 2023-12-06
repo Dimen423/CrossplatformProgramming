@@ -1,0 +1,6 @@
+C:\Users\plast\Desktop\Універ\4 курс\Крос\DN_Lab4\Labs\Labs\bin\Debug\Labs.dll
+C:\Users\plast\Desktop\Універ\4 курс\Крос\DN_Lab4\Labs\Labs\bin\Debug\Labs.pdb
+C:\Users\plast\Desktop\Універ\4 курс\Крос\DN_Lab4\Labs\Labs\obj\Debug\Labs.csproj.AssemblyReference.cache
+C:\Users\plast\Desktop\Універ\4 курс\Крос\DN_Lab4\Labs\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\Users\plast\Desktop\Універ\4 курс\Крос\DN_Lab4\Labs\Labs\obj\Debug\Labs.dll
+C:\Users\plast\Desktop\Універ\4 курс\Крос\DN_Lab4\Labs\Labs\obj\Debug\Labs.pdb
